@@ -8,5 +8,7 @@ int main() {
     cout << "2. View Students" << endl;
     cout << "3. Exit" << endl;
     
+    cout << "This is our Technical Activity, teaching us how to use GitHub and collaborate on a project." << endl;
+    
     return 0;
 }
