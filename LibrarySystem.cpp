@@ -166,11 +166,16 @@ void registerUser() {
 }
 
 
-void addBook() {}
-void removeBook() {}
-void updateBook() {}
+void addBook() {
+    cout << "(For testing/debugging purposes only) add new book!\n";
+}
+void removeBook() {
+    cout << "(For testing/debugging purposes only) remove book!\n";
+}
+void updateBook() {
+    cout << "(For testing/debugging purposes only) update book!\n";
+}
 void viewAllBooks() {}
-
 
 void searchBook() {}
 void generateSummary() {}
